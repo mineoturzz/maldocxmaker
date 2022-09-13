@@ -1,5 +1,5 @@
 # maldocxmaker
-Quick script to connect .docx to macro enable .dotm file
+Quick script to connect .docx to macro enabled .dotm file
 
 1. Create a MS .dotm file with malicious macros
 2. Create a MS .docx file from template
